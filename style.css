@@ -1,0 +1,18 @@
+.box1{
+    border-radius: 5px;
+    border: solid 1px blue;
+    background-color: blue;
+    text-align: center;
+    text-decoration-color: white;
+    height: 320px;
+    width: 201px;
+    
+}
+
+.box2 button{
+    border-radius: 3px;
+    background-color: green;
+    text-align: center;
+    text-decoration: white;
+    padding-bottom:5px;
+}
